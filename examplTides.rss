@@ -1,0 +1,533 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:Mareas="Mareas" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:georss="http://www.georss.org/georss" version="2.0">
+  <channel>
+    <title>Táboa de mareas</title>
+    <link>https://www.meteogalicia.gal/web/predicion/maritima/mareasIndex.action?request_locale=gl</link>
+    <description>Mareas amosadas en horario local</description>
+    <item>
+      <title>Mareas en Corcubión para  venres 22 de setembro</title>
+      <link>https://www.meteogalicia.gal/web/predicion/maritima/mareasIndex.action?request_locale=gl&amp;idPorto=7&amp;data=22/09/2023</link>
+      <description>&lt;div  id="divestActual" class="datos"&gt;&lt;table class="tableloc"  width=250 border=1 bordercolor="#cfcfcf"&gt;&lt;thead&gt;&lt;th&gt;Estado&lt;/th&gt;&lt;th&gt;Hora&lt;/th&gt;&lt;th&gt;Altura&lt;/th&gt;&lt;/thead&gt;&lt;tr&gt;&lt;td&gt;Baixamar&lt;/td&gt;&lt;td&gt;02:52&lt;/td&gt;&lt;td&gt;1,3&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Preamar&lt;/td&gt;&lt;td&gt;09:17&lt;/td&gt;&lt;td&gt;3,0&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Baixamar&lt;/td&gt;&lt;td&gt;15:28&lt;/td&gt;&lt;td&gt;1,3&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Preamar&lt;/td&gt;&lt;td&gt;21:48&lt;/td&gt;&lt;td&gt;2,8&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/div&gt;&lt;br/&gt;</description>
+      <pubDate>Thu, 21 Sep 2023 22:00:00 GMT</pubDate>
+      <guid>https://www.meteogalicia.gal/web/predicion/maritima/mareasIndex.action?request_locale=gl&amp;idPorto=7&amp;data=22/09/2023</guid>
+      <dc:date>2023-09-21T22:00:00Z</dc:date>
+      <georss:point>42.95000076293945 -9.199999809265137</georss:point>
+      <Mareas:nomePorto descricion="Porto">Corcubión</Mareas:nomePorto>
+      <Mareas:idPorto descricion="IdPorto">7</Mareas:idPorto>
+      <Mareas:idPortoRef descricion="IdPortoRef">4</Mareas:idPortoRef>
+      <Mareas:dataPredicion formato="dd/MM/yyyy">22/09/2023</Mareas:dataPredicion>
+      <Mareas:mareas id="0" estado="Baixamar" hora="02:52" altura="1,3" idTipoMarea="0" />
+      <Mareas:mareas id="1" estado="Preamar" hora="09:17" altura="3,0" idTipoMarea="1" />
+      <Mareas:mareas id="2" estado="Baixamar" hora="15:28" altura="1,3" idTipoMarea="0" />
+      <Mareas:mareas id="3" estado="Preamar" hora="21:48" altura="2,8" idTipoMarea="1" />
+    </item>
+    <item>
+      <title>Mareas en Corcubión para  sábado 23 de setembro</title>
+      <link>https://www.meteogalicia.gal/web/predicion/maritima/mareasIndex.action?request_locale=gl&amp;idPorto=7&amp;data=23/09/2023</link>
+      <description>&lt;div  id="divestActual" class="datos"&gt;&lt;table class="tableloc"  width=250 border=1 bordercolor="#cfcfcf"&gt;&lt;thead&gt;&lt;th&gt;Estado&lt;/th&gt;&lt;th&gt;Hora&lt;/th&gt;&lt;th&gt;Altura&lt;/th&gt;&lt;/thead&gt;&lt;tr&gt;&lt;td&gt;Baixamar&lt;/td&gt;&lt;td&gt;04:00&lt;/td&gt;&lt;td&gt;1,5&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Preamar&lt;/td&gt;&lt;td&gt;10:35&lt;/td&gt;&lt;td&gt;2,9&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Baixamar&lt;/td&gt;&lt;td&gt;16:57&lt;/td&gt;&lt;td&gt;1,5&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Preamar&lt;/td&gt;&lt;td&gt;23:26&lt;/td&gt;&lt;td&gt;2,7&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/div&gt;&lt;br/&gt;</description>
+      <pubDate>Fri, 22 Sep 2023 22:00:00 GMT</pubDate>
+      <guid>https://www.meteogalicia.gal/web/predicion/maritima/mareasIndex.action?request_locale=gl&amp;idPorto=7&amp;data=23/09/2023</guid>
+      <dc:date>2023-09-22T22:00:00Z</dc:date>
+      <georss:point>42.95000076293945 -9.199999809265137</georss:point>
+      <Mareas:nomePorto descricion="Porto">Corcubión</Mareas:nomePorto>
+      <Mareas:idPorto descricion="IdPorto">7</Mareas:idPorto>
+      <Mareas:idPortoRef descricion="IdPortoRef">4</Mareas:idPortoRef>
+      <Mareas:dataPredicion formato="dd/MM/yyyy">23/09/2023</Mareas:dataPredicion>
+      <Mareas:mareas id="0" estado="Baixamar" hora="04:00" altura="1,5" idTipoMarea="0" />
+      <Mareas:mareas id="1" estado="Preamar" hora="10:35" altura="2,9" idTipoMarea="1" />
+      <Mareas:mareas id="2" estado="Baixamar" hora="16:57" altura="1,5" idTipoMarea="0" />
+      <Mareas:mareas id="3" estado="Preamar" hora="23:26" altura="2,7" idTipoMarea="1" />
+    </item>
+    <item>
+      <title>Mareas en Corcubión para  domingo 24 de setembro</title>
+      <link>https://www.meteogalicia.gal/web/predicion/maritima/mareasIndex.action?request_locale=gl&amp;idPorto=7&amp;data=24/09/2023</link>
+      <description>&lt;div  id="divestActual" class="datos"&gt;&lt;table class="tableloc"  width=250 border=1 bordercolor="#cfcfcf"&gt;&lt;thead&gt;&lt;th&gt;Estado&lt;/th&gt;&lt;th&gt;Hora&lt;/th&gt;&lt;th&gt;Altura&lt;/th&gt;&lt;/thead&gt;&lt;tr&gt;&lt;td&gt;Baixamar&lt;/td&gt;&lt;td&gt;05:40&lt;/td&gt;&lt;td&gt;1,6&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Preamar&lt;/td&gt;&lt;td&gt;12:11&lt;/td&gt;&lt;td&gt;2,9&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Baixamar&lt;/td&gt;&lt;td&gt;18:42&lt;/td&gt;&lt;td&gt;1,4&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/div&gt;&lt;br/&gt;</description>
+      <pubDate>Sat, 23 Sep 2023 22:00:00 GMT</pubDate>
+      <guid>https://www.meteogalicia.gal/web/predicion/maritima/mareasIndex.action?request_locale=gl&amp;idPorto=7&amp;data=24/09/2023</guid>
+      <dc:date>2023-09-23T22:00:00Z</dc:date>
+      <georss:point>42.95000076293945 -9.199999809265137</georss:point>
+      <Mareas:nomePorto descricion="Porto">Corcubión</Mareas:nomePorto>
+      <Mareas:idPorto descricion="IdPorto">7</Mareas:idPorto>
+      <Mareas:idPortoRef descricion="IdPortoRef">4</Mareas:idPortoRef>
+      <Mareas:dataPredicion formato="dd/MM/yyyy">24/09/2023</Mareas:dataPredicion>
+      <Mareas:mareas id="0" estado="Baixamar" hora="05:40" altura="1,6" idTipoMarea="0" />
+      <Mareas:mareas id="1" estado="Preamar" hora="12:11" altura="2,9" idTipoMarea="1" />
+      <Mareas:mareas id="2" estado="Baixamar" hora="18:42" altura="1,4" idTipoMarea="0" />
+    </item>
+    <item>
+      <title>Mareas en Corcubión para  luns 25 de setembro</title>
+      <link>https://www.meteogalicia.gal/web/predicion/maritima/mareasIndex.action?request_locale=gl&amp;idPorto=7&amp;data=25/09/2023</link>
+      <description>&lt;div  id="divestActual" class="datos"&gt;&lt;table class="tableloc"  width=250 border=1 bordercolor="#cfcfcf"&gt;&lt;thead&gt;&lt;th&gt;Estado&lt;/th&gt;&lt;th&gt;Hora&lt;/th&gt;&lt;th&gt;Altura&lt;/th&gt;&lt;/thead&gt;&lt;tr&gt;&lt;td&gt;Preamar&lt;/td&gt;&lt;td&gt;01:08&lt;/td&gt;&lt;td&gt;2,8&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Baixamar&lt;/td&gt;&lt;td&gt;07:15&lt;/td&gt;&lt;td&gt;1,4&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Preamar&lt;/td&gt;&lt;td&gt;13:36&lt;/td&gt;&lt;td&gt;3,1&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Baixamar&lt;/td&gt;&lt;td&gt;20:00&lt;/td&gt;&lt;td&gt;1,1&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/div&gt;&lt;br/&gt;</description>
+      <pubDate>Sun, 24 Sep 2023 22:00:00 GMT</pubDate>
+      <guid>https://www.meteogalicia.gal/web/predicion/maritima/mareasIndex.action?request_locale=gl&amp;idPorto=7&amp;data=25/09/2023</guid>
+      <dc:date>2023-09-24T22:00:00Z</dc:date>
+      <georss:point>42.95000076293945 -9.199999809265137</georss:point>
+      <Mareas:nomePorto descricion="Porto">Corcubión</Mareas:nomePorto>
+      <Mareas:idPorto descricion="IdPorto">7</Mareas:idPorto>
+      <Mareas:idPortoRef descricion="IdPortoRef">4</Mareas:idPortoRef>
+      <Mareas:dataPredicion formato="dd/MM/yyyy">25/09/2023</Mareas:dataPredicion>
+      <Mareas:mareas id="0" estado="Preamar" hora="01:08" altura="2,8" idTipoMarea="1" />
+      <Mareas:mareas id="1" estado="Baixamar" hora="07:15" altura="1,4" idTipoMarea="0" />
+      <Mareas:mareas id="2" estado="Preamar" hora="13:36" altura="3,1" idTipoMarea="1" />
+      <Mareas:mareas id="3" estado="Baixamar" hora="20:00" altura="1,1" idTipoMarea="0" />
+    </item>
+    <item>
+      <title>Mareas en Corcubión para  martes 26 de setembro</title>
+      <link>https://www.meteogalicia.gal/web/predicion/maritima/mareasIndex.action?request_locale=gl&amp;idPorto=7&amp;data=26/09/2023</link>
+      <description>&lt;div  id="divestActual" class="datos"&gt;&lt;table class="tableloc"  width=250 border=1 bordercolor="#cfcfcf"&gt;&lt;thead&gt;&lt;th&gt;Estado&lt;/th&gt;&lt;th&gt;Hora&lt;/th&gt;&lt;th&gt;Altura&lt;/th&gt;&lt;/thead&gt;&lt;tr&gt;&lt;td&gt;Preamar&lt;/td&gt;&lt;td&gt;02:20&lt;/td&gt;&lt;td&gt;3,1&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Baixamar&lt;/td&gt;&lt;td&gt;08:23&lt;/td&gt;&lt;td&gt;1,1&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Preamar&lt;/td&gt;&lt;td&gt;14:34&lt;/td&gt;&lt;td&gt;3,4&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Baixamar&lt;/td&gt;&lt;td&gt;20:54&lt;/td&gt;&lt;td&gt;0,8&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/div&gt;&lt;br/&gt;</description>
+      <pubDate>Mon, 25 Sep 2023 22:00:00 GMT</pubDate>
+      <guid>https://www.meteogalicia.gal/web/predicion/maritima/mareasIndex.action?request_locale=gl&amp;idPorto=7&amp;data=26/09/2023</guid>
+      <dc:date>2023-09-25T22:00:00Z</dc:date>
+      <georss:point>42.95000076293945 -9.199999809265137</georss:point>
+      <Mareas:nomePorto descricion="Porto">Corcubión</Mareas:nomePorto>
+      <Mareas:idPorto descricion="IdPorto">7</Mareas:idPorto>
+      <Mareas:idPortoRef descricion="IdPortoRef">4</Mareas:idPortoRef>
+      <Mareas:dataPredicion formato="dd/MM/yyyy">26/09/2023</Mareas:dataPredicion>
+      <Mareas:mareas id="0" estado="Preamar" hora="02:20" altura="3,1" idTipoMarea="1" />
+      <Mareas:mareas id="1" estado="Baixamar" hora="08:23" altura="1,1" idTipoMarea="0" />
+      <Mareas:mareas id="2" estado="Preamar" hora="14:34" altura="3,4" idTipoMarea="1" />
+      <Mareas:mareas id="3" estado="Baixamar" hora="20:54" altura="0,8" idTipoMarea="0" />
+    </item>
+    <item>
+      <title>Mareas en Corcubión para  mércores 27 de setembro</title>
+      <link>https://www.meteogalicia.gal/web/predicion/maritima/mareasIndex.action?request_locale=gl&amp;idPorto=7&amp;data=27/09/2023</link>
+      <description>&lt;div  id="divestActual" class="datos"&gt;&lt;table class="tableloc"  width=250 border=1 bordercolor="#cfcfcf"&gt;&lt;thead&gt;&lt;th&gt;Estado&lt;/th&gt;&lt;th&gt;Hora&lt;/th&gt;&lt;th&gt;Altura&lt;/th&gt;&lt;/thead&gt;&lt;tr&gt;&lt;td&gt;Preamar&lt;/td&gt;&lt;td&gt;03:10&lt;/td&gt;&lt;td&gt;3,4&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Baixamar&lt;/td&gt;&lt;td&gt;09:13&lt;/td&gt;&lt;td&gt;0,8&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Preamar&lt;/td&gt;&lt;td&gt;15:26&lt;/td&gt;&lt;td&gt;3,8&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Baixamar&lt;/td&gt;&lt;td&gt;21:42&lt;/td&gt;&lt;td&gt;0,5&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/div&gt;&lt;br/&gt;</description>
+      <pubDate>Tue, 26 Sep 2023 22:00:00 GMT</pubDate>
+      <guid>https://www.meteogalicia.gal/web/predicion/maritima/mareasIndex.action?request_locale=gl&amp;idPorto=7&amp;data=27/09/2023</guid>
+      <dc:date>2023-09-26T22:00:00Z</dc:date>
+      <georss:point>42.95000076293945 -9.199999809265137</georss:point>
+      <Mareas:nomePorto descricion="Porto">Corcubión</Mareas:nomePorto>
+      <Mareas:idPorto descricion="IdPorto">7</Mareas:idPorto>
+      <Mareas:idPortoRef descricion="IdPortoRef">4</Mareas:idPortoRef>
+      <Mareas:dataPredicion formato="dd/MM/yyyy">27/09/2023</Mareas:dataPredicion>
+      <Mareas:mareas id="0" estado="Preamar" hora="03:10" altura="3,4" idTipoMarea="1" />
+      <Mareas:mareas id="1" estado="Baixamar" hora="09:13" altura="0,8" idTipoMarea="0" />
+      <Mareas:mareas id="2" estado="Preamar" hora="15:26" altura="3,8" idTipoMarea="1" />
+      <Mareas:mareas id="3" estado="Baixamar" hora="21:42" altura="0,5" idTipoMarea="0" />
+    </item>
+    <item>
+      <title>Mareas en Corcubión para  xoves 28 de setembro</title>
+      <link>https://www.meteogalicia.gal/web/predicion/maritima/mareasIndex.action?request_locale=gl&amp;idPorto=7&amp;data=28/09/2023</link>
+      <description>&lt;div  id="divestActual" class="datos"&gt;&lt;table class="tableloc"  width=250 border=1 bordercolor="#cfcfcf"&gt;&lt;thead&gt;&lt;th&gt;Estado&lt;/th&gt;&lt;th&gt;Hora&lt;/th&gt;&lt;th&gt;Altura&lt;/th&gt;&lt;/thead&gt;&lt;tr&gt;&lt;td&gt;Preamar&lt;/td&gt;&lt;td&gt;03:55&lt;/td&gt;&lt;td&gt;3,7&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Baixamar&lt;/td&gt;&lt;td&gt;09:56&lt;/td&gt;&lt;td&gt;0,5&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Preamar&lt;/td&gt;&lt;td&gt;16:12&lt;/td&gt;&lt;td&gt;4,0&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Baixamar&lt;/td&gt;&lt;td&gt;22:25&lt;/td&gt;&lt;td&gt;0,3&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/div&gt;&lt;br/&gt;</description>
+      <pubDate>Wed, 27 Sep 2023 22:00:00 GMT</pubDate>
+      <guid>https://www.meteogalicia.gal/web/predicion/maritima/mareasIndex.action?request_locale=gl&amp;idPorto=7&amp;data=28/09/2023</guid>
+      <dc:date>2023-09-27T22:00:00Z</dc:date>
+      <georss:point>42.95000076293945 -9.199999809265137</georss:point>
+      <Mareas:nomePorto descricion="Porto">Corcubión</Mareas:nomePorto>
+      <Mareas:idPorto descricion="IdPorto">7</Mareas:idPorto>
+      <Mareas:idPortoRef descricion="IdPortoRef">4</Mareas:idPortoRef>
+      <Mareas:dataPredicion formato="dd/MM/yyyy">28/09/2023</Mareas:dataPredicion>
+      <Mareas:mareas id="0" estado="Preamar" hora="03:55" altura="3,7" idTipoMarea="1" />
+      <Mareas:mareas id="1" estado="Baixamar" hora="09:56" altura="0,5" idTipoMarea="0" />
+      <Mareas:mareas id="2" estado="Preamar" hora="16:12" altura="4,0" idTipoMarea="1" />
+      <Mareas:mareas id="3" estado="Baixamar" hora="22:25" altura="0,3" idTipoMarea="0" />
+    </item>
+    <item>
+      <title>Mareas en Corcubión para  venres 29 de setembro</title>
+      <link>https://www.meteogalicia.gal/web/predicion/maritima/mareasIndex.action?request_locale=gl&amp;idPorto=7&amp;data=29/09/2023</link>
+      <description>&lt;div  id="divestActual" class="datos"&gt;&lt;table class="tableloc"  width=250 border=1 bordercolor="#cfcfcf"&gt;&lt;thead&gt;&lt;th&gt;Estado&lt;/th&gt;&lt;th&gt;Hora&lt;/th&gt;&lt;th&gt;Altura&lt;/th&gt;&lt;/thead&gt;&lt;tr&gt;&lt;td&gt;Preamar&lt;/td&gt;&lt;td&gt;04:37&lt;/td&gt;&lt;td&gt;3,9&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Baixamar&lt;/td&gt;&lt;td&gt;10:39&lt;/td&gt;&lt;td&gt;0,3&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Preamar&lt;/td&gt;&lt;td&gt;16:55&lt;/td&gt;&lt;td&gt;4,2&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Baixamar&lt;/td&gt;&lt;td&gt;23:06&lt;/td&gt;&lt;td&gt;0,2&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/div&gt;&lt;br/&gt;</description>
+      <pubDate>Thu, 28 Sep 2023 22:00:00 GMT</pubDate>
+      <guid>https://www.meteogalicia.gal/web/predicion/maritima/mareasIndex.action?request_locale=gl&amp;idPorto=7&amp;data=29/09/2023</guid>
+      <dc:date>2023-09-28T22:00:00Z</dc:date>
+      <georss:point>42.95000076293945 -9.199999809265137</georss:point>
+      <Mareas:nomePorto descricion="Porto">Corcubión</Mareas:nomePorto>
+      <Mareas:idPorto descricion="IdPorto">7</Mareas:idPorto>
+      <Mareas:idPortoRef descricion="IdPortoRef">4</Mareas:idPortoRef>
+      <Mareas:dataPredicion formato="dd/MM/yyyy">29/09/2023</Mareas:dataPredicion>
+      <Mareas:mareas id="0" estado="Preamar" hora="04:37" altura="3,9" idTipoMarea="1" />
+      <Mareas:mareas id="1" estado="Baixamar" hora="10:39" altura="0,3" idTipoMarea="0" />
+      <Mareas:mareas id="2" estado="Preamar" hora="16:55" altura="4,2" idTipoMarea="1" />
+      <Mareas:mareas id="3" estado="Baixamar" hora="23:06" altura="0,2" idTipoMarea="0" />
+    </item>
+    <item>
+      <title>Mareas en Corcubión para  sábado 30 de setembro</title>
+      <link>https://www.meteogalicia.gal/web/predicion/maritima/mareasIndex.action?request_locale=gl&amp;idPorto=7&amp;data=30/09/2023</link>
+      <description>&lt;div  id="divestActual" class="datos"&gt;&lt;table class="tableloc"  width=250 border=1 bordercolor="#cfcfcf"&gt;&lt;thead&gt;&lt;th&gt;Estado&lt;/th&gt;&lt;th&gt;Hora&lt;/th&gt;&lt;th&gt;Altura&lt;/th&gt;&lt;/thead&gt;&lt;tr&gt;&lt;td&gt;Preamar&lt;/td&gt;&lt;td&gt;05:18&lt;/td&gt;&lt;td&gt;4,0&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Baixamar&lt;/td&gt;&lt;td&gt;11:20&lt;/td&gt;&lt;td&gt;0,2&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Preamar&lt;/td&gt;&lt;td&gt;17:36&lt;/td&gt;&lt;td&gt;4,2&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Baixamar&lt;/td&gt;&lt;td&gt;23:43&lt;/td&gt;&lt;td&gt;0,2&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/div&gt;&lt;br/&gt;</description>
+      <pubDate>Fri, 29 Sep 2023 22:00:00 GMT</pubDate>
+      <guid>https://www.meteogalicia.gal/web/predicion/maritima/mareasIndex.action?request_locale=gl&amp;idPorto=7&amp;data=30/09/2023</guid>
+      <dc:date>2023-09-29T22:00:00Z</dc:date>
+      <georss:point>42.95000076293945 -9.199999809265137</georss:point>
+      <Mareas:nomePorto descricion="Porto">Corcubión</Mareas:nomePorto>
+      <Mareas:idPorto descricion="IdPorto">7</Mareas:idPorto>
+      <Mareas:idPortoRef descricion="IdPortoRef">4</Mareas:idPortoRef>
+      <Mareas:dataPredicion formato="dd/MM/yyyy">30/09/2023</Mareas:dataPredicion>
+      <Mareas:mareas id="0" estado="Preamar" hora="05:18" altura="4,0" idTipoMarea="1" />
+      <Mareas:mareas id="1" estado="Baixamar" hora="11:20" altura="0,2" idTipoMarea="0" />
+      <Mareas:mareas id="2" estado="Preamar" hora="17:36" altura="4,2" idTipoMarea="1" />
+      <Mareas:mareas id="3" estado="Baixamar" hora="23:43" altura="0,2" idTipoMarea="0" />
+    </item>
+    <item>
+      <title>Mareas en Corcubión para  domingo 01 de outubro</title>
+      <link>https://www.meteogalicia.gal/web/predicion/maritima/mareasIndex.action?request_locale=gl&amp;idPorto=7&amp;data=01/10/2023</link>
+      <description>&lt;div  id="divestActual" class="datos"&gt;&lt;table class="tableloc"  width=250 border=1 bordercolor="#cfcfcf"&gt;&lt;thead&gt;&lt;th&gt;Estado&lt;/th&gt;&lt;th&gt;Hora&lt;/th&gt;&lt;th&gt;Altura&lt;/th&gt;&lt;/thead&gt;&lt;tr&gt;&lt;td&gt;Preamar&lt;/td&gt;&lt;td&gt;05:59&lt;/td&gt;&lt;td&gt;4,0&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Baixamar&lt;/td&gt;&lt;td&gt;12:01&lt;/td&gt;&lt;td&gt;0,3&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Preamar&lt;/td&gt;&lt;td&gt;18:17&lt;/td&gt;&lt;td&gt;4,1&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/div&gt;&lt;br/&gt;</description>
+      <pubDate>Sat, 30 Sep 2023 22:00:00 GMT</pubDate>
+      <guid>https://www.meteogalicia.gal/web/predicion/maritima/mareasIndex.action?request_locale=gl&amp;idPorto=7&amp;data=01/10/2023</guid>
+      <dc:date>2023-09-30T22:00:00Z</dc:date>
+      <georss:point>42.95000076293945 -9.199999809265137</georss:point>
+      <Mareas:nomePorto descricion="Porto">Corcubión</Mareas:nomePorto>
+      <Mareas:idPorto descricion="IdPorto">7</Mareas:idPorto>
+      <Mareas:idPortoRef descricion="IdPortoRef">4</Mareas:idPortoRef>
+      <Mareas:dataPredicion formato="dd/MM/yyyy">01/10/2023</Mareas:dataPredicion>
+      <Mareas:mareas id="0" estado="Preamar" hora="05:59" altura="4,0" idTipoMarea="1" />
+      <Mareas:mareas id="1" estado="Baixamar" hora="12:01" altura="0,3" idTipoMarea="0" />
+      <Mareas:mareas id="2" estado="Preamar" hora="18:17" altura="4,1" idTipoMarea="1" />
+    </item>
+    <item>
+      <title>Mareas en Corcubión para  luns 02 de outubro</title>
+      <link>https://www.meteogalicia.gal/web/predicion/maritima/mareasIndex.action?request_locale=gl&amp;idPorto=7&amp;data=02/10/2023</link>
+      <description>&lt;div  id="divestActual" class="datos"&gt;&lt;table class="tableloc"  width=250 border=1 bordercolor="#cfcfcf"&gt;&lt;thead&gt;&lt;th&gt;Estado&lt;/th&gt;&lt;th&gt;Hora&lt;/th&gt;&lt;th&gt;Altura&lt;/th&gt;&lt;/thead&gt;&lt;tr&gt;&lt;td&gt;Baixamar&lt;/td&gt;&lt;td&gt;00:24&lt;/td&gt;&lt;td&gt;0,3&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Preamar&lt;/td&gt;&lt;td&gt;06:36&lt;/td&gt;&lt;td&gt;3,9&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Baixamar&lt;/td&gt;&lt;td&gt;12:43&lt;/td&gt;&lt;td&gt;0,4&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Preamar&lt;/td&gt;&lt;td&gt;18:58&lt;/td&gt;&lt;td&gt;3,9&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/div&gt;&lt;br/&gt;</description>
+      <pubDate>Sun, 01 Oct 2023 22:00:00 GMT</pubDate>
+      <guid>https://www.meteogalicia.gal/web/predicion/maritima/mareasIndex.action?request_locale=gl&amp;idPorto=7&amp;data=02/10/2023</guid>
+      <dc:date>2023-10-01T22:00:00Z</dc:date>
+      <georss:point>42.95000076293945 -9.199999809265137</georss:point>
+      <Mareas:nomePorto descricion="Porto">Corcubión</Mareas:nomePorto>
+      <Mareas:idPorto descricion="IdPorto">7</Mareas:idPorto>
+      <Mareas:idPortoRef descricion="IdPortoRef">4</Mareas:idPortoRef>
+      <Mareas:dataPredicion formato="dd/MM/yyyy">02/10/2023</Mareas:dataPredicion>
+      <Mareas:mareas id="0" estado="Baixamar" hora="00:24" altura="0,3" idTipoMarea="0" />
+      <Mareas:mareas id="1" estado="Preamar" hora="06:36" altura="3,9" idTipoMarea="1" />
+      <Mareas:mareas id="2" estado="Baixamar" hora="12:43" altura="0,4" idTipoMarea="0" />
+      <Mareas:mareas id="3" estado="Preamar" hora="18:58" altura="3,9" idTipoMarea="1" />
+    </item>
+    <item>
+      <title>Mareas en Corcubión para  martes 03 de outubro</title>
+      <link>https://www.meteogalicia.gal/web/predicion/maritima/mareasIndex.action?request_locale=gl&amp;idPorto=7&amp;data=03/10/2023</link>
+      <description>&lt;div  id="divestActual" class="datos"&gt;&lt;table class="tableloc"  width=250 border=1 bordercolor="#cfcfcf"&gt;&lt;thead&gt;&lt;th&gt;Estado&lt;/th&gt;&lt;th&gt;Hora&lt;/th&gt;&lt;th&gt;Altura&lt;/th&gt;&lt;/thead&gt;&lt;tr&gt;&lt;td&gt;Baixamar&lt;/td&gt;&lt;td&gt;01:03&lt;/td&gt;&lt;td&gt;0,6&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Preamar&lt;/td&gt;&lt;td&gt;07:17&lt;/td&gt;&lt;td&gt;3,7&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Baixamar&lt;/td&gt;&lt;td&gt;13:24&lt;/td&gt;&lt;td&gt;0,6&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Preamar&lt;/td&gt;&lt;td&gt;19:39&lt;/td&gt;&lt;td&gt;3,5&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/div&gt;&lt;br/&gt;</description>
+      <pubDate>Mon, 02 Oct 2023 22:00:00 GMT</pubDate>
+      <guid>https://www.meteogalicia.gal/web/predicion/maritima/mareasIndex.action?request_locale=gl&amp;idPorto=7&amp;data=03/10/2023</guid>
+      <dc:date>2023-10-02T22:00:00Z</dc:date>
+      <georss:point>42.95000076293945 -9.199999809265137</georss:point>
+      <Mareas:nomePorto descricion="Porto">Corcubión</Mareas:nomePorto>
+      <Mareas:idPorto descricion="IdPorto">7</Mareas:idPorto>
+      <Mareas:idPortoRef descricion="IdPortoRef">4</Mareas:idPortoRef>
+      <Mareas:dataPredicion formato="dd/MM/yyyy">03/10/2023</Mareas:dataPredicion>
+      <Mareas:mareas id="0" estado="Baixamar" hora="01:03" altura="0,6" idTipoMarea="0" />
+      <Mareas:mareas id="1" estado="Preamar" hora="07:17" altura="3,7" idTipoMarea="1" />
+      <Mareas:mareas id="2" estado="Baixamar" hora="13:24" altura="0,6" idTipoMarea="0" />
+      <Mareas:mareas id="3" estado="Preamar" hora="19:39" altura="3,5" idTipoMarea="1" />
+    </item>
+    <item>
+      <title>Mareas en Corcubión para  mércores 04 de outubro</title>
+      <link>https://www.meteogalicia.gal/web/predicion/maritima/mareasIndex.action?request_locale=gl&amp;idPorto=7&amp;data=04/10/2023</link>
+      <description>&lt;div  id="divestActual" class="datos"&gt;&lt;table class="tableloc"  width=250 border=1 bordercolor="#cfcfcf"&gt;&lt;thead&gt;&lt;th&gt;Estado&lt;/th&gt;&lt;th&gt;Hora&lt;/th&gt;&lt;th&gt;Altura&lt;/th&gt;&lt;/thead&gt;&lt;tr&gt;&lt;td&gt;Baixamar&lt;/td&gt;&lt;td&gt;01:42&lt;/td&gt;&lt;td&gt;0,9&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Preamar&lt;/td&gt;&lt;td&gt;07:58&lt;/td&gt;&lt;td&gt;3,4&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Baixamar&lt;/td&gt;&lt;td&gt;14:09&lt;/td&gt;&lt;td&gt;0,9&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Preamar&lt;/td&gt;&lt;td&gt;20:25&lt;/td&gt;&lt;td&gt;3,2&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/div&gt;&lt;br/&gt;</description>
+      <pubDate>Tue, 03 Oct 2023 22:00:00 GMT</pubDate>
+      <guid>https://www.meteogalicia.gal/web/predicion/maritima/mareasIndex.action?request_locale=gl&amp;idPorto=7&amp;data=04/10/2023</guid>
+      <dc:date>2023-10-03T22:00:00Z</dc:date>
+      <georss:point>42.95000076293945 -9.199999809265137</georss:point>
+      <Mareas:nomePorto descricion="Porto">Corcubión</Mareas:nomePorto>
+      <Mareas:idPorto descricion="IdPorto">7</Mareas:idPorto>
+      <Mareas:idPortoRef descricion="IdPortoRef">4</Mareas:idPortoRef>
+      <Mareas:dataPredicion formato="dd/MM/yyyy">04/10/2023</Mareas:dataPredicion>
+      <Mareas:mareas id="0" estado="Baixamar" hora="01:42" altura="0,9" idTipoMarea="0" />
+      <Mareas:mareas id="1" estado="Preamar" hora="07:58" altura="3,4" idTipoMarea="1" />
+      <Mareas:mareas id="2" estado="Baixamar" hora="14:09" altura="0,9" idTipoMarea="0" />
+      <Mareas:mareas id="3" estado="Preamar" hora="20:25" altura="3,2" idTipoMarea="1" />
+    </item>
+    <item>
+      <title>Mareas en Corcubión para  xoves 05 de outubro</title>
+      <link>https://www.meteogalicia.gal/web/predicion/maritima/mareasIndex.action?request_locale=gl&amp;idPorto=7&amp;data=05/10/2023</link>
+      <description>&lt;div  id="divestActual" class="datos"&gt;&lt;table class="tableloc"  width=250 border=1 bordercolor="#cfcfcf"&gt;&lt;thead&gt;&lt;th&gt;Estado&lt;/th&gt;&lt;th&gt;Hora&lt;/th&gt;&lt;th&gt;Altura&lt;/th&gt;&lt;/thead&gt;&lt;tr&gt;&lt;td&gt;Baixamar&lt;/td&gt;&lt;td&gt;02:23&lt;/td&gt;&lt;td&gt;1,2&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Preamar&lt;/td&gt;&lt;td&gt;08:43&lt;/td&gt;&lt;td&gt;3,1&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Baixamar&lt;/td&gt;&lt;td&gt;15:03&lt;/td&gt;&lt;td&gt;1,2&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Preamar&lt;/td&gt;&lt;td&gt;21:19&lt;/td&gt;&lt;td&gt;2,8&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/div&gt;&lt;br/&gt;</description>
+      <pubDate>Wed, 04 Oct 2023 22:00:00 GMT</pubDate>
+      <guid>https://www.meteogalicia.gal/web/predicion/maritima/mareasIndex.action?request_locale=gl&amp;idPorto=7&amp;data=05/10/2023</guid>
+      <dc:date>2023-10-04T22:00:00Z</dc:date>
+      <georss:point>42.95000076293945 -9.199999809265137</georss:point>
+      <Mareas:nomePorto descricion="Porto">Corcubión</Mareas:nomePorto>
+      <Mareas:idPorto descricion="IdPorto">7</Mareas:idPorto>
+      <Mareas:idPortoRef descricion="IdPortoRef">4</Mareas:idPortoRef>
+      <Mareas:dataPredicion formato="dd/MM/yyyy">05/10/2023</Mareas:dataPredicion>
+      <Mareas:mareas id="0" estado="Baixamar" hora="02:23" altura="1,2" idTipoMarea="0" />
+      <Mareas:mareas id="1" estado="Preamar" hora="08:43" altura="3,1" idTipoMarea="1" />
+      <Mareas:mareas id="2" estado="Baixamar" hora="15:03" altura="1,2" idTipoMarea="0" />
+      <Mareas:mareas id="3" estado="Preamar" hora="21:19" altura="2,8" idTipoMarea="1" />
+    </item>
+    <item>
+      <title>Mareas en Corcubión para  venres 06 de outubro</title>
+      <link>https://www.meteogalicia.gal/web/predicion/maritima/mareasIndex.action?request_locale=gl&amp;idPorto=7&amp;data=06/10/2023</link>
+      <description>&lt;div  id="divestActual" class="datos"&gt;&lt;table class="tableloc"  width=250 border=1 bordercolor="#cfcfcf"&gt;&lt;thead&gt;&lt;th&gt;Estado&lt;/th&gt;&lt;th&gt;Hora&lt;/th&gt;&lt;th&gt;Altura&lt;/th&gt;&lt;/thead&gt;&lt;tr&gt;&lt;td&gt;Baixamar&lt;/td&gt;&lt;td&gt;03:13&lt;/td&gt;&lt;td&gt;1,5&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Preamar&lt;/td&gt;&lt;td&gt;09:44&lt;/td&gt;&lt;td&gt;2,9&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Baixamar&lt;/td&gt;&lt;td&gt;16:17&lt;/td&gt;&lt;td&gt;1,5&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Preamar&lt;/td&gt;&lt;td&gt;22:37&lt;/td&gt;&lt;td&gt;2,6&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/div&gt;&lt;br/&gt;</description>
+      <pubDate>Thu, 05 Oct 2023 22:00:00 GMT</pubDate>
+      <guid>https://www.meteogalicia.gal/web/predicion/maritima/mareasIndex.action?request_locale=gl&amp;idPorto=7&amp;data=06/10/2023</guid>
+      <dc:date>2023-10-05T22:00:00Z</dc:date>
+      <georss:point>42.95000076293945 -9.199999809265137</georss:point>
+      <Mareas:nomePorto descricion="Porto">Corcubión</Mareas:nomePorto>
+      <Mareas:idPorto descricion="IdPorto">7</Mareas:idPorto>
+      <Mareas:idPortoRef descricion="IdPortoRef">4</Mareas:idPortoRef>
+      <Mareas:dataPredicion formato="dd/MM/yyyy">06/10/2023</Mareas:dataPredicion>
+      <Mareas:mareas id="0" estado="Baixamar" hora="03:13" altura="1,5" idTipoMarea="0" />
+      <Mareas:mareas id="1" estado="Preamar" hora="09:44" altura="2,9" idTipoMarea="1" />
+      <Mareas:mareas id="2" estado="Baixamar" hora="16:17" altura="1,5" idTipoMarea="0" />
+      <Mareas:mareas id="3" estado="Preamar" hora="22:37" altura="2,6" idTipoMarea="1" />
+    </item>
+    <item>
+      <title>Mareas en Corcubión para  sábado 07 de outubro</title>
+      <link>https://www.meteogalicia.gal/web/predicion/maritima/mareasIndex.action?request_locale=gl&amp;idPorto=7&amp;data=07/10/2023</link>
+      <description>&lt;div  id="divestActual" class="datos"&gt;&lt;table class="tableloc"  width=250 border=1 bordercolor="#cfcfcf"&gt;&lt;thead&gt;&lt;th&gt;Estado&lt;/th&gt;&lt;th&gt;Hora&lt;/th&gt;&lt;th&gt;Altura&lt;/th&gt;&lt;/thead&gt;&lt;tr&gt;&lt;td&gt;Baixamar&lt;/td&gt;&lt;td&gt;04:33&lt;/td&gt;&lt;td&gt;1,7&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Preamar&lt;/td&gt;&lt;td&gt;11:15&lt;/td&gt;&lt;td&gt;2,7&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Baixamar&lt;/td&gt;&lt;td&gt;18:00&lt;/td&gt;&lt;td&gt;1,6&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/div&gt;&lt;br/&gt;</description>
+      <pubDate>Fri, 06 Oct 2023 22:00:00 GMT</pubDate>
+      <guid>https://www.meteogalicia.gal/web/predicion/maritima/mareasIndex.action?request_locale=gl&amp;idPorto=7&amp;data=07/10/2023</guid>
+      <dc:date>2023-10-06T22:00:00Z</dc:date>
+      <georss:point>42.95000076293945 -9.199999809265137</georss:point>
+      <Mareas:nomePorto descricion="Porto">Corcubión</Mareas:nomePorto>
+      <Mareas:idPorto descricion="IdPorto">7</Mareas:idPorto>
+      <Mareas:idPortoRef descricion="IdPortoRef">4</Mareas:idPortoRef>
+      <Mareas:dataPredicion formato="dd/MM/yyyy">07/10/2023</Mareas:dataPredicion>
+      <Mareas:mareas id="0" estado="Baixamar" hora="04:33" altura="1,7" idTipoMarea="0" />
+      <Mareas:mareas id="1" estado="Preamar" hora="11:15" altura="2,7" idTipoMarea="1" />
+      <Mareas:mareas id="2" estado="Baixamar" hora="18:00" altura="1,6" idTipoMarea="0" />
+    </item>
+    <item>
+      <title>Mareas en Corcubión para  domingo 08 de outubro</title>
+      <link>https://www.meteogalicia.gal/web/predicion/maritima/mareasIndex.action?request_locale=gl&amp;idPorto=7&amp;data=08/10/2023</link>
+      <description>&lt;div  id="divestActual" class="datos"&gt;&lt;table class="tableloc"  width=250 border=1 bordercolor="#cfcfcf"&gt;&lt;thead&gt;&lt;th&gt;Estado&lt;/th&gt;&lt;th&gt;Hora&lt;/th&gt;&lt;th&gt;Altura&lt;/th&gt;&lt;/thead&gt;&lt;tr&gt;&lt;td&gt;Preamar&lt;/td&gt;&lt;td&gt;00:22&lt;/td&gt;&lt;td&gt;2,5&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Baixamar&lt;/td&gt;&lt;td&gt;06:20&lt;/td&gt;&lt;td&gt;1,7&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Preamar&lt;/td&gt;&lt;td&gt;12:51&lt;/td&gt;&lt;td&gt;2,8&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Baixamar&lt;/td&gt;&lt;td&gt;19:27&lt;/td&gt;&lt;td&gt;1,5&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/div&gt;&lt;br/&gt;</description>
+      <pubDate>Sat, 07 Oct 2023 22:00:00 GMT</pubDate>
+      <guid>https://www.meteogalicia.gal/web/predicion/maritima/mareasIndex.action?request_locale=gl&amp;idPorto=7&amp;data=08/10/2023</guid>
+      <dc:date>2023-10-07T22:00:00Z</dc:date>
+      <georss:point>42.95000076293945 -9.199999809265137</georss:point>
+      <Mareas:nomePorto descricion="Porto">Corcubión</Mareas:nomePorto>
+      <Mareas:idPorto descricion="IdPorto">7</Mareas:idPorto>
+      <Mareas:idPortoRef descricion="IdPortoRef">4</Mareas:idPortoRef>
+      <Mareas:dataPredicion formato="dd/MM/yyyy">08/10/2023</Mareas:dataPredicion>
+      <Mareas:mareas id="0" estado="Preamar" hora="00:22" altura="2,5" idTipoMarea="1" />
+      <Mareas:mareas id="1" estado="Baixamar" hora="06:20" altura="1,7" idTipoMarea="0" />
+      <Mareas:mareas id="2" estado="Preamar" hora="12:51" altura="2,8" idTipoMarea="1" />
+      <Mareas:mareas id="3" estado="Baixamar" hora="19:27" altura="1,5" idTipoMarea="0" />
+    </item>
+    <item>
+      <title>Mareas en Corcubión para  luns 09 de outubro</title>
+      <link>https://www.meteogalicia.gal/web/predicion/maritima/mareasIndex.action?request_locale=gl&amp;idPorto=7&amp;data=09/10/2023</link>
+      <description>&lt;div  id="divestActual" class="datos"&gt;&lt;table class="tableloc"  width=250 border=1 bordercolor="#cfcfcf"&gt;&lt;thead&gt;&lt;th&gt;Estado&lt;/th&gt;&lt;th&gt;Hora&lt;/th&gt;&lt;th&gt;Altura&lt;/th&gt;&lt;/thead&gt;&lt;tr&gt;&lt;td&gt;Preamar&lt;/td&gt;&lt;td&gt;01:42&lt;/td&gt;&lt;td&gt;2,6&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Baixamar&lt;/td&gt;&lt;td&gt;07:38&lt;/td&gt;&lt;td&gt;1,6&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Preamar&lt;/td&gt;&lt;td&gt;13:58&lt;/td&gt;&lt;td&gt;2,9&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Baixamar&lt;/td&gt;&lt;td&gt;20:23&lt;/td&gt;&lt;td&gt;1,3&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/div&gt;&lt;br/&gt;</description>
+      <pubDate>Sun, 08 Oct 2023 22:00:00 GMT</pubDate>
+      <guid>https://www.meteogalicia.gal/web/predicion/maritima/mareasIndex.action?request_locale=gl&amp;idPorto=7&amp;data=09/10/2023</guid>
+      <dc:date>2023-10-08T22:00:00Z</dc:date>
+      <georss:point>42.95000076293945 -9.199999809265137</georss:point>
+      <Mareas:nomePorto descricion="Porto">Corcubión</Mareas:nomePorto>
+      <Mareas:idPorto descricion="IdPorto">7</Mareas:idPorto>
+      <Mareas:idPortoRef descricion="IdPortoRef">4</Mareas:idPortoRef>
+      <Mareas:dataPredicion formato="dd/MM/yyyy">09/10/2023</Mareas:dataPredicion>
+      <Mareas:mareas id="0" estado="Preamar" hora="01:42" altura="2,6" idTipoMarea="1" />
+      <Mareas:mareas id="1" estado="Baixamar" hora="07:38" altura="1,6" idTipoMarea="0" />
+      <Mareas:mareas id="2" estado="Preamar" hora="13:58" altura="2,9" idTipoMarea="1" />
+      <Mareas:mareas id="3" estado="Baixamar" hora="20:23" altura="1,3" idTipoMarea="0" />
+    </item>
+    <item>
+      <title>Mareas en Corcubión para  martes 10 de outubro</title>
+      <link>https://www.meteogalicia.gal/web/predicion/maritima/mareasIndex.action?request_locale=gl&amp;idPorto=7&amp;data=10/10/2023</link>
+      <description>&lt;div  id="divestActual" class="datos"&gt;&lt;table class="tableloc"  width=250 border=1 bordercolor="#cfcfcf"&gt;&lt;thead&gt;&lt;th&gt;Estado&lt;/th&gt;&lt;th&gt;Hora&lt;/th&gt;&lt;th&gt;Altura&lt;/th&gt;&lt;/thead&gt;&lt;tr&gt;&lt;td&gt;Preamar&lt;/td&gt;&lt;td&gt;02:32&lt;/td&gt;&lt;td&gt;2,8&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Baixamar&lt;/td&gt;&lt;td&gt;08:28&lt;/td&gt;&lt;td&gt;1,4&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Preamar&lt;/td&gt;&lt;td&gt;14:44&lt;/td&gt;&lt;td&gt;3,1&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Baixamar&lt;/td&gt;&lt;td&gt;21:02&lt;/td&gt;&lt;td&gt;1,1&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/div&gt;&lt;br/&gt;</description>
+      <pubDate>Mon, 09 Oct 2023 22:00:00 GMT</pubDate>
+      <guid>https://www.meteogalicia.gal/web/predicion/maritima/mareasIndex.action?request_locale=gl&amp;idPorto=7&amp;data=10/10/2023</guid>
+      <dc:date>2023-10-09T22:00:00Z</dc:date>
+      <georss:point>42.95000076293945 -9.199999809265137</georss:point>
+      <Mareas:nomePorto descricion="Porto">Corcubión</Mareas:nomePorto>
+      <Mareas:idPorto descricion="IdPorto">7</Mareas:idPorto>
+      <Mareas:idPortoRef descricion="IdPortoRef">4</Mareas:idPortoRef>
+      <Mareas:dataPredicion formato="dd/MM/yyyy">10/10/2023</Mareas:dataPredicion>
+      <Mareas:mareas id="0" estado="Preamar" hora="02:32" altura="2,8" idTipoMarea="1" />
+      <Mareas:mareas id="1" estado="Baixamar" hora="08:28" altura="1,4" idTipoMarea="0" />
+      <Mareas:mareas id="2" estado="Preamar" hora="14:44" altura="3,1" idTipoMarea="1" />
+      <Mareas:mareas id="3" estado="Baixamar" hora="21:02" altura="1,1" idTipoMarea="0" />
+    </item>
+    <item>
+      <title>Mareas en Corcubión para  mércores 11 de outubro</title>
+      <link>https://www.meteogalicia.gal/web/predicion/maritima/mareasIndex.action?request_locale=gl&amp;idPorto=7&amp;data=11/10/2023</link>
+      <description>&lt;div  id="divestActual" class="datos"&gt;&lt;table class="tableloc"  width=250 border=1 bordercolor="#cfcfcf"&gt;&lt;thead&gt;&lt;th&gt;Estado&lt;/th&gt;&lt;th&gt;Hora&lt;/th&gt;&lt;th&gt;Altura&lt;/th&gt;&lt;/thead&gt;&lt;tr&gt;&lt;td&gt;Preamar&lt;/td&gt;&lt;td&gt;03:11&lt;/td&gt;&lt;td&gt;3,0&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Baixamar&lt;/td&gt;&lt;td&gt;09:07&lt;/td&gt;&lt;td&gt;1,2&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Preamar&lt;/td&gt;&lt;td&gt;15:19&lt;/td&gt;&lt;td&gt;3,3&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Baixamar&lt;/td&gt;&lt;td&gt;21:34&lt;/td&gt;&lt;td&gt;0,9&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/div&gt;&lt;br/&gt;</description>
+      <pubDate>Tue, 10 Oct 2023 22:00:00 GMT</pubDate>
+      <guid>https://www.meteogalicia.gal/web/predicion/maritima/mareasIndex.action?request_locale=gl&amp;idPorto=7&amp;data=11/10/2023</guid>
+      <dc:date>2023-10-10T22:00:00Z</dc:date>
+      <georss:point>42.95000076293945 -9.199999809265137</georss:point>
+      <Mareas:nomePorto descricion="Porto">Corcubión</Mareas:nomePorto>
+      <Mareas:idPorto descricion="IdPorto">7</Mareas:idPorto>
+      <Mareas:idPortoRef descricion="IdPortoRef">4</Mareas:idPortoRef>
+      <Mareas:dataPredicion formato="dd/MM/yyyy">11/10/2023</Mareas:dataPredicion>
+      <Mareas:mareas id="0" estado="Preamar" hora="03:11" altura="3,0" idTipoMarea="1" />
+      <Mareas:mareas id="1" estado="Baixamar" hora="09:07" altura="1,2" idTipoMarea="0" />
+      <Mareas:mareas id="2" estado="Preamar" hora="15:19" altura="3,3" idTipoMarea="1" />
+      <Mareas:mareas id="3" estado="Baixamar" hora="21:34" altura="0,9" idTipoMarea="0" />
+    </item>
+    <item>
+      <title>Mareas en Corcubión para  xoves 12 de outubro</title>
+      <link>https://www.meteogalicia.gal/web/predicion/maritima/mareasIndex.action?request_locale=gl&amp;idPorto=7&amp;data=12/10/2023</link>
+      <description>&lt;div  id="divestActual" class="datos"&gt;&lt;table class="tableloc"  width=250 border=1 bordercolor="#cfcfcf"&gt;&lt;thead&gt;&lt;th&gt;Estado&lt;/th&gt;&lt;th&gt;Hora&lt;/th&gt;&lt;th&gt;Altura&lt;/th&gt;&lt;/thead&gt;&lt;tr&gt;&lt;td&gt;Preamar&lt;/td&gt;&lt;td&gt;03:41&lt;/td&gt;&lt;td&gt;3,2&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Baixamar&lt;/td&gt;&lt;td&gt;09:40&lt;/td&gt;&lt;td&gt;1,0&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Preamar&lt;/td&gt;&lt;td&gt;15:53&lt;/td&gt;&lt;td&gt;3,4&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Baixamar&lt;/td&gt;&lt;td&gt;22:04&lt;/td&gt;&lt;td&gt;0,8&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/div&gt;&lt;br/&gt;</description>
+      <pubDate>Wed, 11 Oct 2023 22:00:00 GMT</pubDate>
+      <guid>https://www.meteogalicia.gal/web/predicion/maritima/mareasIndex.action?request_locale=gl&amp;idPorto=7&amp;data=12/10/2023</guid>
+      <dc:date>2023-10-11T22:00:00Z</dc:date>
+      <georss:point>42.95000076293945 -9.199999809265137</georss:point>
+      <Mareas:nomePorto descricion="Porto">Corcubión</Mareas:nomePorto>
+      <Mareas:idPorto descricion="IdPorto">7</Mareas:idPorto>
+      <Mareas:idPortoRef descricion="IdPortoRef">4</Mareas:idPortoRef>
+      <Mareas:dataPredicion formato="dd/MM/yyyy">12/10/2023</Mareas:dataPredicion>
+      <Mareas:mareas id="0" estado="Preamar" hora="03:41" altura="3,2" idTipoMarea="1" />
+      <Mareas:mareas id="1" estado="Baixamar" hora="09:40" altura="1,0" idTipoMarea="0" />
+      <Mareas:mareas id="2" estado="Preamar" hora="15:53" altura="3,4" idTipoMarea="1" />
+      <Mareas:mareas id="3" estado="Baixamar" hora="22:04" altura="0,8" idTipoMarea="0" />
+    </item>
+    <item>
+      <title>Mareas en Corcubión para  venres 13 de outubro</title>
+      <link>https://www.meteogalicia.gal/web/predicion/maritima/mareasIndex.action?request_locale=gl&amp;idPorto=7&amp;data=13/10/2023</link>
+      <description>&lt;div  id="divestActual" class="datos"&gt;&lt;table class="tableloc"  width=250 border=1 bordercolor="#cfcfcf"&gt;&lt;thead&gt;&lt;th&gt;Estado&lt;/th&gt;&lt;th&gt;Hora&lt;/th&gt;&lt;th&gt;Altura&lt;/th&gt;&lt;/thead&gt;&lt;tr&gt;&lt;td&gt;Preamar&lt;/td&gt;&lt;td&gt;04:09&lt;/td&gt;&lt;td&gt;3,4&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Baixamar&lt;/td&gt;&lt;td&gt;10:10&lt;/td&gt;&lt;td&gt;0,9&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Preamar&lt;/td&gt;&lt;td&gt;16:21&lt;/td&gt;&lt;td&gt;3,6&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Baixamar&lt;/td&gt;&lt;td&gt;22:30&lt;/td&gt;&lt;td&gt;0,7&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/div&gt;&lt;br/&gt;</description>
+      <pubDate>Thu, 12 Oct 2023 22:00:00 GMT</pubDate>
+      <guid>https://www.meteogalicia.gal/web/predicion/maritima/mareasIndex.action?request_locale=gl&amp;idPorto=7&amp;data=13/10/2023</guid>
+      <dc:date>2023-10-12T22:00:00Z</dc:date>
+      <georss:point>42.95000076293945 -9.199999809265137</georss:point>
+      <Mareas:nomePorto descricion="Porto">Corcubión</Mareas:nomePorto>
+      <Mareas:idPorto descricion="IdPorto">7</Mareas:idPorto>
+      <Mareas:idPortoRef descricion="IdPortoRef">4</Mareas:idPortoRef>
+      <Mareas:dataPredicion formato="dd/MM/yyyy">13/10/2023</Mareas:dataPredicion>
+      <Mareas:mareas id="0" estado="Preamar" hora="04:09" altura="3,4" idTipoMarea="1" />
+      <Mareas:mareas id="1" estado="Baixamar" hora="10:10" altura="0,9" idTipoMarea="0" />
+      <Mareas:mareas id="2" estado="Preamar" hora="16:21" altura="3,6" idTipoMarea="1" />
+      <Mareas:mareas id="3" estado="Baixamar" hora="22:30" altura="0,7" idTipoMarea="0" />
+    </item>
+    <item>
+      <title>Mareas en Corcubión para  sábado 14 de outubro</title>
+      <link>https://www.meteogalicia.gal/web/predicion/maritima/mareasIndex.action?request_locale=gl&amp;idPorto=7&amp;data=14/10/2023</link>
+      <description>&lt;div  id="divestActual" class="datos"&gt;&lt;table class="tableloc"  width=250 border=1 bordercolor="#cfcfcf"&gt;&lt;thead&gt;&lt;th&gt;Estado&lt;/th&gt;&lt;th&gt;Hora&lt;/th&gt;&lt;th&gt;Altura&lt;/th&gt;&lt;/thead&gt;&lt;tr&gt;&lt;td&gt;Preamar&lt;/td&gt;&lt;td&gt;04:39&lt;/td&gt;&lt;td&gt;3,5&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Baixamar&lt;/td&gt;&lt;td&gt;10:40&lt;/td&gt;&lt;td&gt;0,7&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Preamar&lt;/td&gt;&lt;td&gt;16:51&lt;/td&gt;&lt;td&gt;3,6&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Baixamar&lt;/td&gt;&lt;td&gt;22:58&lt;/td&gt;&lt;td&gt;0,6&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/div&gt;&lt;br/&gt;</description>
+      <pubDate>Fri, 13 Oct 2023 22:00:00 GMT</pubDate>
+      <guid>https://www.meteogalicia.gal/web/predicion/maritima/mareasIndex.action?request_locale=gl&amp;idPorto=7&amp;data=14/10/2023</guid>
+      <dc:date>2023-10-13T22:00:00Z</dc:date>
+      <georss:point>42.95000076293945 -9.199999809265137</georss:point>
+      <Mareas:nomePorto descricion="Porto">Corcubión</Mareas:nomePorto>
+      <Mareas:idPorto descricion="IdPorto">7</Mareas:idPorto>
+      <Mareas:idPortoRef descricion="IdPortoRef">4</Mareas:idPortoRef>
+      <Mareas:dataPredicion formato="dd/MM/yyyy">14/10/2023</Mareas:dataPredicion>
+      <Mareas:mareas id="0" estado="Preamar" hora="04:39" altura="3,5" idTipoMarea="1" />
+      <Mareas:mareas id="1" estado="Baixamar" hora="10:40" altura="0,7" idTipoMarea="0" />
+      <Mareas:mareas id="2" estado="Preamar" hora="16:51" altura="3,6" idTipoMarea="1" />
+      <Mareas:mareas id="3" estado="Baixamar" hora="22:58" altura="0,6" idTipoMarea="0" />
+    </item>
+    <item>
+      <title>Mareas en Corcubión para  domingo 15 de outubro</title>
+      <link>https://www.meteogalicia.gal/web/predicion/maritima/mareasIndex.action?request_locale=gl&amp;idPorto=7&amp;data=15/10/2023</link>
+      <description>&lt;div  id="divestActual" class="datos"&gt;&lt;table class="tableloc"  width=250 border=1 bordercolor="#cfcfcf"&gt;&lt;thead&gt;&lt;th&gt;Estado&lt;/th&gt;&lt;th&gt;Hora&lt;/th&gt;&lt;th&gt;Altura&lt;/th&gt;&lt;/thead&gt;&lt;tr&gt;&lt;td&gt;Preamar&lt;/td&gt;&lt;td&gt;05:07&lt;/td&gt;&lt;td&gt;3,6&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Baixamar&lt;/td&gt;&lt;td&gt;11:08&lt;/td&gt;&lt;td&gt;0,7&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Preamar&lt;/td&gt;&lt;td&gt;17:19&lt;/td&gt;&lt;td&gt;3,7&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Baixamar&lt;/td&gt;&lt;td&gt;23:26&lt;/td&gt;&lt;td&gt;0,6&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/div&gt;&lt;br/&gt;</description>
+      <pubDate>Sat, 14 Oct 2023 22:00:00 GMT</pubDate>
+      <guid>https://www.meteogalicia.gal/web/predicion/maritima/mareasIndex.action?request_locale=gl&amp;idPorto=7&amp;data=15/10/2023</guid>
+      <dc:date>2023-10-14T22:00:00Z</dc:date>
+      <georss:point>42.95000076293945 -9.199999809265137</georss:point>
+      <Mareas:nomePorto descricion="Porto">Corcubión</Mareas:nomePorto>
+      <Mareas:idPorto descricion="IdPorto">7</Mareas:idPorto>
+      <Mareas:idPortoRef descricion="IdPortoRef">4</Mareas:idPortoRef>
+      <Mareas:dataPredicion formato="dd/MM/yyyy">15/10/2023</Mareas:dataPredicion>
+      <Mareas:mareas id="0" estado="Preamar" hora="05:07" altura="3,6" idTipoMarea="1" />
+      <Mareas:mareas id="1" estado="Baixamar" hora="11:08" altura="0,7" idTipoMarea="0" />
+      <Mareas:mareas id="2" estado="Preamar" hora="17:19" altura="3,7" idTipoMarea="1" />
+      <Mareas:mareas id="3" estado="Baixamar" hora="23:26" altura="0,6" idTipoMarea="0" />
+    </item>
+    <item>
+      <title>Mareas en Corcubión para  luns 16 de outubro</title>
+      <link>https://www.meteogalicia.gal/web/predicion/maritima/mareasIndex.action?request_locale=gl&amp;idPorto=7&amp;data=16/10/2023</link>
+      <description>&lt;div  id="divestActual" class="datos"&gt;&lt;table class="tableloc"  width=250 border=1 bordercolor="#cfcfcf"&gt;&lt;thead&gt;&lt;th&gt;Estado&lt;/th&gt;&lt;th&gt;Hora&lt;/th&gt;&lt;th&gt;Altura&lt;/th&gt;&lt;/thead&gt;&lt;tr&gt;&lt;td&gt;Preamar&lt;/td&gt;&lt;td&gt;05:38&lt;/td&gt;&lt;td&gt;3,7&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Baixamar&lt;/td&gt;&lt;td&gt;11:40&lt;/td&gt;&lt;td&gt;0,6&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Preamar&lt;/td&gt;&lt;td&gt;17:52&lt;/td&gt;&lt;td&gt;3,7&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Baixamar&lt;/td&gt;&lt;td&gt;23:59&lt;/td&gt;&lt;td&gt;0,6&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/div&gt;&lt;br/&gt;</description>
+      <pubDate>Sun, 15 Oct 2023 22:00:00 GMT</pubDate>
+      <guid>https://www.meteogalicia.gal/web/predicion/maritima/mareasIndex.action?request_locale=gl&amp;idPorto=7&amp;data=16/10/2023</guid>
+      <dc:date>2023-10-15T22:00:00Z</dc:date>
+      <georss:point>42.95000076293945 -9.199999809265137</georss:point>
+      <Mareas:nomePorto descricion="Porto">Corcubión</Mareas:nomePorto>
+      <Mareas:idPorto descricion="IdPorto">7</Mareas:idPorto>
+      <Mareas:idPortoRef descricion="IdPortoRef">4</Mareas:idPortoRef>
+      <Mareas:dataPredicion formato="dd/MM/yyyy">16/10/2023</Mareas:dataPredicion>
+      <Mareas:mareas id="0" estado="Preamar" hora="05:38" altura="3,7" idTipoMarea="1" />
+      <Mareas:mareas id="1" estado="Baixamar" hora="11:40" altura="0,6" idTipoMarea="0" />
+      <Mareas:mareas id="2" estado="Preamar" hora="17:52" altura="3,7" idTipoMarea="1" />
+      <Mareas:mareas id="3" estado="Baixamar" hora="23:59" altura="0,6" idTipoMarea="0" />
+    </item>
+    <item>
+      <title>Mareas en Corcubión para  martes 17 de outubro</title>
+      <link>https://www.meteogalicia.gal/web/predicion/maritima/mareasIndex.action?request_locale=gl&amp;idPorto=7&amp;data=17/10/2023</link>
+      <description>&lt;div  id="divestActual" class="datos"&gt;&lt;table class="tableloc"  width=250 border=1 bordercolor="#cfcfcf"&gt;&lt;thead&gt;&lt;th&gt;Estado&lt;/th&gt;&lt;th&gt;Hora&lt;/th&gt;&lt;th&gt;Altura&lt;/th&gt;&lt;/thead&gt;&lt;tr&gt;&lt;td&gt;Preamar&lt;/td&gt;&lt;td&gt;06:08&lt;/td&gt;&lt;td&gt;3,6&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Baixamar&lt;/td&gt;&lt;td&gt;12:13&lt;/td&gt;&lt;td&gt;0,7&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Preamar&lt;/td&gt;&lt;td&gt;18:24&lt;/td&gt;&lt;td&gt;3,6&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/div&gt;&lt;br/&gt;</description>
+      <pubDate>Mon, 16 Oct 2023 22:00:00 GMT</pubDate>
+      <guid>https://www.meteogalicia.gal/web/predicion/maritima/mareasIndex.action?request_locale=gl&amp;idPorto=7&amp;data=17/10/2023</guid>
+      <dc:date>2023-10-16T22:00:00Z</dc:date>
+      <georss:point>42.95000076293945 -9.199999809265137</georss:point>
+      <Mareas:nomePorto descricion="Porto">Corcubión</Mareas:nomePorto>
+      <Mareas:idPorto descricion="IdPorto">7</Mareas:idPorto>
+      <Mareas:idPortoRef descricion="IdPortoRef">4</Mareas:idPortoRef>
+      <Mareas:dataPredicion formato="dd/MM/yyyy">17/10/2023</Mareas:dataPredicion>
+      <Mareas:mareas id="0" estado="Preamar" hora="06:08" altura="3,6" idTipoMarea="1" />
+      <Mareas:mareas id="1" estado="Baixamar" hora="12:13" altura="0,7" idTipoMarea="0" />
+      <Mareas:mareas id="2" estado="Preamar" hora="18:24" altura="3,6" idTipoMarea="1" />
+    </item>
+    <item>
+      <title>Mareas en Corcubión para  mércores 18 de outubro</title>
+      <link>https://www.meteogalicia.gal/web/predicion/maritima/mareasIndex.action?request_locale=gl&amp;idPorto=7&amp;data=18/10/2023</link>
+      <description>&lt;div  id="divestActual" class="datos"&gt;&lt;table class="tableloc"  width=250 border=1 bordercolor="#cfcfcf"&gt;&lt;thead&gt;&lt;th&gt;Estado&lt;/th&gt;&lt;th&gt;Hora&lt;/th&gt;&lt;th&gt;Altura&lt;/th&gt;&lt;/thead&gt;&lt;tr&gt;&lt;td&gt;Baixamar&lt;/td&gt;&lt;td&gt;00:29&lt;/td&gt;&lt;td&gt;0,7&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Preamar&lt;/td&gt;&lt;td&gt;06:42&lt;/td&gt;&lt;td&gt;3,6&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Baixamar&lt;/td&gt;&lt;td&gt;12:49&lt;/td&gt;&lt;td&gt;0,8&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Preamar&lt;/td&gt;&lt;td&gt;19:01&lt;/td&gt;&lt;td&gt;3,4&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/div&gt;&lt;br/&gt;</description>
+      <pubDate>Tue, 17 Oct 2023 22:00:00 GMT</pubDate>
+      <guid>https://www.meteogalicia.gal/web/predicion/maritima/mareasIndex.action?request_locale=gl&amp;idPorto=7&amp;data=18/10/2023</guid>
+      <dc:date>2023-10-17T22:00:00Z</dc:date>
+      <georss:point>42.95000076293945 -9.199999809265137</georss:point>
+      <Mareas:nomePorto descricion="Porto">Corcubión</Mareas:nomePorto>
+      <Mareas:idPorto descricion="IdPorto">7</Mareas:idPorto>
+      <Mareas:idPortoRef descricion="IdPortoRef">4</Mareas:idPortoRef>
+      <Mareas:dataPredicion formato="dd/MM/yyyy">18/10/2023</Mareas:dataPredicion>
+      <Mareas:mareas id="0" estado="Baixamar" hora="00:29" altura="0,7" idTipoMarea="0" />
+      <Mareas:mareas id="1" estado="Preamar" hora="06:42" altura="3,6" idTipoMarea="1" />
+      <Mareas:mareas id="2" estado="Baixamar" hora="12:49" altura="0,8" idTipoMarea="0" />
+      <Mareas:mareas id="3" estado="Preamar" hora="19:01" altura="3,4" idTipoMarea="1" />
+    </item>
+    <item>
+      <title>Mareas en Corcubión para  xoves 19 de outubro</title>
+      <link>https://www.meteogalicia.gal/web/predicion/maritima/mareasIndex.action?request_locale=gl&amp;idPorto=7&amp;data=19/10/2023</link>
+      <description>&lt;div  id="divestActual" class="datos"&gt;&lt;table class="tableloc"  width=250 border=1 bordercolor="#cfcfcf"&gt;&lt;thead&gt;&lt;th&gt;Estado&lt;/th&gt;&lt;th&gt;Hora&lt;/th&gt;&lt;th&gt;Altura&lt;/th&gt;&lt;/thead&gt;&lt;tr&gt;&lt;td&gt;Baixamar&lt;/td&gt;&lt;td&gt;01:03&lt;/td&gt;&lt;td&gt;0,9&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Preamar&lt;/td&gt;&lt;td&gt;07:21&lt;/td&gt;&lt;td&gt;3,4&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Baixamar&lt;/td&gt;&lt;td&gt;13:31&lt;/td&gt;&lt;td&gt;0,9&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Preamar&lt;/td&gt;&lt;td&gt;19:42&lt;/td&gt;&lt;td&gt;3,2&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/div&gt;&lt;br/&gt;</description>
+      <pubDate>Wed, 18 Oct 2023 22:00:00 GMT</pubDate>
+      <guid>https://www.meteogalicia.gal/web/predicion/maritima/mareasIndex.action?request_locale=gl&amp;idPorto=7&amp;data=19/10/2023</guid>
+      <dc:date>2023-10-18T22:00:00Z</dc:date>
+      <georss:point>42.95000076293945 -9.199999809265137</georss:point>
+      <Mareas:nomePorto descricion="Porto">Corcubión</Mareas:nomePorto>
+      <Mareas:idPorto descricion="IdPorto">7</Mareas:idPorto>
+      <Mareas:idPortoRef descricion="IdPortoRef">4</Mareas:idPortoRef>
+      <Mareas:dataPredicion formato="dd/MM/yyyy">19/10/2023</Mareas:dataPredicion>
+      <Mareas:mareas id="0" estado="Baixamar" hora="01:03" altura="0,9" idTipoMarea="0" />
+      <Mareas:mareas id="1" estado="Preamar" hora="07:21" altura="3,4" idTipoMarea="1" />
+      <Mareas:mareas id="2" estado="Baixamar" hora="13:31" altura="0,9" idTipoMarea="0" />
+      <Mareas:mareas id="3" estado="Preamar" hora="19:42" altura="3,2" idTipoMarea="1" />
+    </item>
+    <item>
+      <title>Mareas en Corcubión para  venres 20 de outubro</title>
+      <link>https://www.meteogalicia.gal/web/predicion/maritima/mareasIndex.action?request_locale=gl&amp;idPorto=7&amp;data=20/10/2023</link>
+      <description>&lt;div  id="divestActual" class="datos"&gt;&lt;table class="tableloc"  width=250 border=1 bordercolor="#cfcfcf"&gt;&lt;thead&gt;&lt;th&gt;Estado&lt;/th&gt;&lt;th&gt;Hora&lt;/th&gt;&lt;th&gt;Altura&lt;/th&gt;&lt;/thead&gt;&lt;tr&gt;&lt;td&gt;Baixamar&lt;/td&gt;&lt;td&gt;01:45&lt;/td&gt;&lt;td&gt;1,1&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Preamar&lt;/td&gt;&lt;td&gt;08:07&lt;/td&gt;&lt;td&gt;3,3&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Baixamar&lt;/td&gt;&lt;td&gt;14:20&lt;/td&gt;&lt;td&gt;1,1&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Preamar&lt;/td&gt;&lt;td&gt;20:34&lt;/td&gt;&lt;td&gt;3,0&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/div&gt;&lt;br/&gt;</description>
+      <pubDate>Thu, 19 Oct 2023 22:00:00 GMT</pubDate>
+      <guid>https://www.meteogalicia.gal/web/predicion/maritima/mareasIndex.action?request_locale=gl&amp;idPorto=7&amp;data=20/10/2023</guid>
+      <dc:date>2023-10-19T22:00:00Z</dc:date>
+      <georss:point>42.95000076293945 -9.199999809265137</georss:point>
+      <Mareas:nomePorto descricion="Porto">Corcubión</Mareas:nomePorto>
+      <Mareas:idPorto descricion="IdPorto">7</Mareas:idPorto>
+      <Mareas:idPortoRef descricion="IdPortoRef">4</Mareas:idPortoRef>
+      <Mareas:dataPredicion formato="dd/MM/yyyy">20/10/2023</Mareas:dataPredicion>
+      <Mareas:mareas id="0" estado="Baixamar" hora="01:45" altura="1,1" idTipoMarea="0" />
+      <Mareas:mareas id="1" estado="Preamar" hora="08:07" altura="3,3" idTipoMarea="1" />
+      <Mareas:mareas id="2" estado="Baixamar" hora="14:20" altura="1,1" idTipoMarea="0" />
+      <Mareas:mareas id="3" estado="Preamar" hora="20:34" altura="3,0" idTipoMarea="1" />
+    </item>
+    <item>
+      <title>Mareas en Corcubión para  sábado 21 de outubro</title>
+      <link>https://www.meteogalicia.gal/web/predicion/maritima/mareasIndex.action?request_locale=gl&amp;idPorto=7&amp;data=21/10/2023</link>
+      <description>&lt;div  id="divestActual" class="datos"&gt;&lt;table class="tableloc"  width=250 border=1 bordercolor="#cfcfcf"&gt;&lt;thead&gt;&lt;th&gt;Estado&lt;/th&gt;&lt;th&gt;Hora&lt;/th&gt;&lt;th&gt;Altura&lt;/th&gt;&lt;/thead&gt;&lt;tr&gt;&lt;td&gt;Baixamar&lt;/td&gt;&lt;td&gt;02:34&lt;/td&gt;&lt;td&gt;1,3&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Preamar&lt;/td&gt;&lt;td&gt;09:03&lt;/td&gt;&lt;td&gt;3,1&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Baixamar&lt;/td&gt;&lt;td&gt;15:23&lt;/td&gt;&lt;td&gt;1,3&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Preamar&lt;/td&gt;&lt;td&gt;21:48&lt;/td&gt;&lt;td&gt;2,8&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/div&gt;&lt;br/&gt;</description>
+      <pubDate>Fri, 20 Oct 2023 22:00:00 GMT</pubDate>
+      <guid>https://www.meteogalicia.gal/web/predicion/maritima/mareasIndex.action?request_locale=gl&amp;idPorto=7&amp;data=21/10/2023</guid>
+      <dc:date>2023-10-20T22:00:00Z</dc:date>
+      <georss:point>42.95000076293945 -9.199999809265137</georss:point>
+      <Mareas:nomePorto descricion="Porto">Corcubión</Mareas:nomePorto>
+      <Mareas:idPorto descricion="IdPorto">7</Mareas:idPorto>
+      <Mareas:idPortoRef descricion="IdPortoRef">4</Mareas:idPortoRef>
+      <Mareas:dataPredicion formato="dd/MM/yyyy">21/10/2023</Mareas:dataPredicion>
+      <Mareas:mareas id="0" estado="Baixamar" hora="02:34" altura="1,3" idTipoMarea="0" />
+      <Mareas:mareas id="1" estado="Preamar" hora="09:03" altura="3,1" idTipoMarea="1" />
+      <Mareas:mareas id="2" estado="Baixamar" hora="15:23" altura="1,3" idTipoMarea="0" />
+      <Mareas:mareas id="3" estado="Preamar" hora="21:48" altura="2,8" idTipoMarea="1" />
+    </item>
+    <item>
+      <title>Mareas en Corcubión para  domingo 22 de outubro</title>
+      <link>https://www.meteogalicia.gal/web/predicion/maritima/mareasIndex.action?request_locale=gl&amp;idPorto=7&amp;data=22/10/2023</link>
+      <description>&lt;div  id="divestActual" class="datos"&gt;&lt;table class="tableloc"  width=250 border=1 bordercolor="#cfcfcf"&gt;&lt;thead&gt;&lt;th&gt;Estado&lt;/th&gt;&lt;th&gt;Hora&lt;/th&gt;&lt;th&gt;Altura&lt;/th&gt;&lt;/thead&gt;&lt;tr&gt;&lt;td&gt;Baixamar&lt;/td&gt;&lt;td&gt;03:50&lt;/td&gt;&lt;td&gt;1,5&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Preamar&lt;/td&gt;&lt;td&gt;10:24&lt;/td&gt;&lt;td&gt;3,0&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Baixamar&lt;/td&gt;&lt;td&gt;16:57&lt;/td&gt;&lt;td&gt;1,4&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Preamar&lt;/td&gt;&lt;td&gt;23:26&lt;/td&gt;&lt;td&gt;2,7&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/div&gt;&lt;br/&gt;</description>
+      <pubDate>Sat, 21 Oct 2023 22:00:00 GMT</pubDate>
+      <guid>https://www.meteogalicia.gal/web/predicion/maritima/mareasIndex.action?request_locale=gl&amp;idPorto=7&amp;data=22/10/2023</guid>
+      <dc:date>2023-10-21T22:00:00Z</dc:date>
+      <georss:point>42.95000076293945 -9.199999809265137</georss:point>
+      <Mareas:nomePorto descricion="Porto">Corcubión</Mareas:nomePorto>
+      <Mareas:idPorto descricion="IdPorto">7</Mareas:idPorto>
+      <Mareas:idPortoRef descricion="IdPortoRef">4</Mareas:idPortoRef>
+      <Mareas:dataPredicion formato="dd/MM/yyyy">22/10/2023</Mareas:dataPredicion>
+      <Mareas:mareas id="0" estado="Baixamar" hora="03:50" altura="1,5" idTipoMarea="0" />
+      <Mareas:mareas id="1" estado="Preamar" hora="10:24" altura="3,0" idTipoMarea="1" />
+      <Mareas:mareas id="2" estado="Baixamar" hora="16:57" altura="1,4" idTipoMarea="0" />
+      <Mareas:mareas id="3" estado="Preamar" hora="23:26" altura="2,7" idTipoMarea="1" />
+    </item>
+  </channel>
+</rss>
+
+
