@@ -1,6 +1,7 @@
 package com.GalTides.controllers;
 
 import com.GalTides.entities.Tide;
+import com.GalTides.entities.TideDTO;
 import com.GalTides.repository.TidesRepository;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.http.HttpStatus;
@@ -22,7 +23,7 @@ public class TideController {
     TidesRepository tidesRepository;
 
     @GetMapping(path = "/tides")
-    public ResponseEntity<List<Tide>> findtides(@RequestParam Map<String, String> allargs) {
+    public ResponseEntity<TideDTO> findtides(@RequestParam Map<String, String> allargs) {
         try {
 
             return new ResponseEntity<>(this.tidesRepository.getTides(allargs), HttpStatus.OK);

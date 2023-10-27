@@ -9,7 +9,8 @@ import java.util.List;
 @NoArgsConstructor
 @Builder
 @ToString
-public class Tide {
-    private String date;
-    private List<TideDetail> tideDetail;
+public class TideDTO {
+
+    private String name;
+    private List<Tide> tides;
 }

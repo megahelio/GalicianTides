@@ -2,6 +2,7 @@ package com.GalTides.repository;
 
 
 import com.GalTides.entities.Tide;
+import com.GalTides.entities.TideDTO;
 import com.GalTides.entities.TideDetail;
 import org.springframework.stereotype.Repository;
 import org.w3c.dom.Document;
@@ -25,9 +26,9 @@ public class TidesRepository {
      *
      * @param parameters range: dataIni = dd/MM/aaaa & dataFin = dd/MM/aaaa & idPorto = num
      *                   single date:  data= dd/MM/aaaa & idPorto = num
-     * @return Tide
+     * @return TideDTO
      */
-    public List<Tide> getTides(Map<String, String> parameters) {
+    public TideDTO getTides(Map<String, String> parameters) {
         String tidesrss = "";
         try {
             URL url = new URL("https://servizos.meteogalicia.gal/mgrss/predicion/rssMareas.action");
@@ -58,8 +59,8 @@ public class TidesRepository {
         return parseRSS(tidesrss);
     }
 
-    private static List<Tide> parseRSS(String rssContent) {
-        List<Tide> tides = new ArrayList<>();
+    private static TideDTO parseRSS(String rssContent) {
+        TideDTO tideDTO = new TideDTO();
         try {
             DocumentBuilderFactory dbFactory = DocumentBuilderFactory.newInstance();
             DocumentBuilder dBuilder = dbFactory.newDocumentBuilder();
@@ -67,6 +68,7 @@ public class TidesRepository {
             doc.getDocumentElement().normalize();
 
             NodeList itemNodes = doc.getElementsByTagName("item");
+            List<Tide> tides = new ArrayList<>();
 
 
             for (int i = 0; i < itemNodes.getLength(); i++) {
@@ -74,8 +76,11 @@ public class TidesRepository {
                 System.out.println("tideElement: ");
                 System.out.println(tideElement.getElementsByTagName("Mareas:nomePorto").item(0).getTextContent());
                 System.out.println(tideElement.getElementsByTagName("Mareas:dataPredicion").item(0).getTextContent());
+
+                if (i == 0) {
+                    tideDTO.setName(tideElement.getElementsByTagName("Mareas:nomePorto").item(0).getTextContent());
+                }
                 Tide tide = Tide.builder()
-                        .name(tideElement.getElementsByTagName("Mareas:nomePorto").item(0).getTextContent())
                         .date(tideElement.getElementsByTagName("Mareas:dataPredicion").item(0).getTextContent())
                         .tideDetail(new ArrayList<>())
                         .build();
@@ -97,10 +102,11 @@ public class TidesRepository {
                 }
                 tides.add(tide);
             }
+            tideDTO.setTides(tides);
         } catch (Exception e) {
             e.printStackTrace();
         }
-        return tides;
+        return tideDTO;
     }
 }
 
