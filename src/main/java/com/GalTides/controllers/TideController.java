@@ -11,10 +11,12 @@ import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RequestParam;
 import org.springframework.web.bind.annotation.RestController;
+import org.springframework.web.server.ResponseStatusException;
 
 import java.util.List;
 import java.util.Map;
 import java.util.Optional;
+import java.util.Set;
 
 @RestController
 @RequestMapping(path = "/api", produces = MediaType.APPLICATION_JSON_VALUE)
@@ -25,11 +27,10 @@ public class TideController {
     @GetMapping(path = "/tides")
     public ResponseEntity<TideDTO> findtides(@RequestParam Map<String, String> allargs) {
         try {
-
             return new ResponseEntity<>(this.tidesRepository.getTides(allargs), HttpStatus.OK);
         } catch (final Exception e) {
             e.printStackTrace();
-            return new ResponseEntity<>(HttpStatus.INTERNAL_SERVER_ERROR);
+            throw new RuntimeException();
         }
     }
 

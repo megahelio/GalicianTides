@@ -15,6 +15,7 @@ import javax.xml.parsers.DocumentBuilderFactory;
 import java.io.*;
 import java.net.HttpURLConnection;
 import java.net.URL;
+import java.text.ParseException;
 import java.text.SimpleDateFormat;
 import java.util.*;
 
@@ -30,16 +31,22 @@ public class TidesRepository {
      */
     public TideDTO getTides(Map<String, String> parameters) {
         String tidesrss = "";
+
+        if (parameters.containsKey("dataIni") && parameters.containsKey("dataFin") && datesWrong(parameters.get("dataIni"), parameters.get("dataFin"))) {
+            throw new RuntimeException();
+        }
+
         try {
             URL url = new URL("https://servizos.meteogalicia.gal/mgrss/predicion/rssMareas.action");
             HttpURLConnection con = (HttpURLConnection) url.openConnection();
             con.setRequestMethod("GET");
-            System.out.println(parameters);
             con.setDoOutput(true);
             try (DataOutputStream out = new DataOutputStream(con.getOutputStream())) {
                 out.writeBytes(ParameterStringBuilder.getParamsString(parameters));//include parameters
                 out.flush();
             }
+            System.out.println(ParameterStringBuilder.getParamsString(parameters));
+            ;
 
             int status = con.getResponseCode();
             BufferedReader in = new BufferedReader(
@@ -51,12 +58,23 @@ public class TidesRepository {
             }
             tidesrss = content.toString();
             in.close();
+            con.disconnect();
 
         } catch (
                 Exception e) {
             e.printStackTrace();
         }
+        System.out.println("tiderss: \n" + tidesrss);
         return parseRSS(tidesrss);
+    }
+
+    private boolean datesWrong(String dataIni, String dataFin) {
+        try {
+            SimpleDateFormat date = new SimpleDateFormat("dd/MM/yyyy");
+            return date.parse(dataIni).after(date.parse(dataFin));
+        } catch (ParseException e) {
+            throw new RuntimeException();
+        }
     }
 
     private static TideDTO parseRSS(String rssContent) {
